@@ -1,0 +1,15 @@
+C:\Users\volos\source\repos\Third\obj\Debug\Third.csprojAssemblyReference.cache
+C:\Users\volos\source\repos\Third\obj\Debug\MainWindow.g.cs
+C:\Users\volos\source\repos\Third\obj\Debug\App.g.cs
+C:\Users\volos\source\repos\Third\obj\Debug\Third_MarkupCompile.cache
+C:\Users\volos\source\repos\Third\obj\Debug\Third_MarkupCompile.lref
+C:\Users\volos\source\repos\Third\bin\Debug\Third.exe.config
+C:\Users\volos\source\repos\Third\bin\Debug\Third.exe
+C:\Users\volos\source\repos\Third\bin\Debug\Third.pdb
+C:\Users\volos\source\repos\Third\obj\Debug\MainWindow.baml
+C:\Users\volos\source\repos\Third\obj\Debug\Third.g.resources
+C:\Users\volos\source\repos\Third\obj\Debug\Third.Properties.Resources.resources
+C:\Users\volos\source\repos\Third\obj\Debug\Third.csproj.GenerateResource.cache
+C:\Users\volos\source\repos\Third\obj\Debug\Third.csproj.CoreCompileInputs.cache
+C:\Users\volos\source\repos\Third\obj\Debug\Third.exe
+C:\Users\volos\source\repos\Third\obj\Debug\Third.pdb

@@ -1,0 +1,29 @@
+﻿<Window x:Class="Third.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Third"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter Property="FontSize" Value="25"/>
+                    <Setter Property="Foreground" Value="Red"/>
+                </Style>
+            </StackPanel.Resources>
+            <TextBlock Text="Вышло на этой остановке:"/>
+            <TextBlock Text="{Binding Bus.Left}"/>
+            <TextBlock Text="Зашло на этой остановке:"/>
+            <TextBlock Text="{Binding Bus.Come}"/>
+            <TextBlock Text="Стоящих:"/>
+            <TextBlock Text="{Binding Bus.Standing.Count}"/>
+            <TextBlock Text="Сидящих:"/>
+            <TextBlock Text="{Binding Bus.Sitting.Count}"/>
+            <TextBlock Text="Всего:"/>
+            <TextBlock Text="{Binding Bus.Total}"/>
+        </StackPanel>
+    </Grid>
+</Window>
